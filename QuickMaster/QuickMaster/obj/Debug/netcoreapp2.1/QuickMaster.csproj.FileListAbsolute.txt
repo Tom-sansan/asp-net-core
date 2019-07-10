@@ -37,3 +37,43 @@ C:\Users\Tomoyasu Iwasawa\Documents\Projects\ASPNET_Core\QuickMaster\QuickMaster
 C:\Users\Tomoyasu Iwasawa\Documents\Projects\ASPNET_Core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.dll
 C:\Users\Tomoyasu Iwasawa\Documents\Projects\ASPNET_Core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.pdb
 C:\Users\Tomoyasu Iwasawa\Documents\Projects\ASPNET_Core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csproj.CopyComplete
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.deps.json
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.runtimeconfig.json
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.runtimeconfig.dev.json
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.dll
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.pdb
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.Views.dll
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.Views.pdb
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csprojAssemblyReference.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csproj.CoreCompileInputs.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorAssemblyInfo.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorAssemblyInfo.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.AssemblyInfoInputs.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.AssemblyInfo.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.TagHelpers.input.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.TagHelpers.output.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorCoreGenerate.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Greet.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Hello\List.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorTargetAssemblyInfo.cache
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorTargetAssemblyInfo.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.Views.pdb
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.dll
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.pdb
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csproj.CopyComplete
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DisplayTemplates\Currency.g.cshtml.cs
