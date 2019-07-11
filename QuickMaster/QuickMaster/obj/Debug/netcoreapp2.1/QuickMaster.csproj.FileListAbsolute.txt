@@ -44,7 +44,6 @@ C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaste
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.pdb
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.Views.dll
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\bin\Debug\netcoreapp2.1\QuickMaster.Views.pdb
-C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csprojAssemblyReference.cache
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csproj.CoreCompileInputs.cache
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorAssemblyInfo.cache
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.RazorAssemblyInfo.cs
@@ -77,3 +76,5 @@ C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaste
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.pdb
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csproj.CopyComplete
 C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DisplayTemplates\Currency.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SubLayout.g.cshtml.cs
+C:\Users\tmsiw\Documents\Project\ASPNET_Core\asp-net-core\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Time.g.cshtml.cs
