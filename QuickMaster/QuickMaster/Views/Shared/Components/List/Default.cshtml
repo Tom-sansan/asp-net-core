@@ -1,0 +1,23 @@
+﻿@model IEnumerable<QuickMaster.Models.Books>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Book Name</th>
+            <th>Price</th>
+            <th>Publisher</th>
+            <th>Sample</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Price</td>
+                <td>@item.Publisher</td>
+                <td>@item.Sample</td>
+            </tr>
+        }
+    </tbody>
+</table>
