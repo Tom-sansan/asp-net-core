@@ -1,0 +1,33 @@
+﻿@model IEnumerable<QuickMaster_Core3.Models.Book>
+@{
+    ViewData["Title"] = "Hello List";
+    Layout = "./CustomLayout/_MyLayout";
+}
+
+<h2>List</h2>
+<partial name="./PartialView/_Time"/>
+
+@await Component.InvokeAsync("List", new { price = 3000})
+
+@*<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Publisher</th>
+            <th>Sample</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Price</td>
+            <td>@item.Publisher</td>
+            <td>@item.Sample</td>
+        </tr>
+        }
+    </tbody>
+</table>*@
+
